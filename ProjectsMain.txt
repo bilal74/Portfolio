@@ -1,0 +1,69 @@
+Website names - 
+
+01-e-comm-basics
+02-blog
+03-ortho
+04-restaurant
+05-e-comm-pro
+06-online voting
+07-banking
+08-e-comm-assessment
+
+
+Mini Project Names - 
+
+01-yearEndCounter
+02-yearEndCounter snowflakes
+03-infinite scroll
+04-pokedex API
+05-github api
+06-News and weather api
+07-Hamburger
+08-stopwatch
+09-clock digital
+10-clock analog
+11-video background
+12-Random name API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
